@@ -4,6 +4,6 @@ import React from 'react'
 
 export default function LogoutButton() {
   return (
-    <button type="button" onClick={()=>signOut()} >Signout with Google</button>
+    <button type="button" onClick={()=>signOut()} >Signout </button>
 )
 }
